@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: alexa-rodriguez-website/personalWebsite
+    repo: alexa-rodriguez-website/resumeWebsite
     branch: main
   
 media_folder: static/img
