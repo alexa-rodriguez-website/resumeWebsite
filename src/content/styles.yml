@@ -1,9 +1,9 @@
-primary: "#000dff"
+primary: "#2196f3"
 background: "#F5F5F6"
 page-background: "#F5F5F6"
 content-background: "#fff"
 photo: /img/paper-fav.png
 header1-color: white
 header2-color: black
-header3-color: "#308ef3"
+header3-color: "#6ec6ff"
 header4-color: black
