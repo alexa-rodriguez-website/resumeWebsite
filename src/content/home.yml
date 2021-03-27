@@ -22,7 +22,23 @@ education:
     date: December 2021
     content: "My areas of interest include materials, R&D, consulting, and project
       management. "
-work: []
+work:
+  - name: Academic Personnel Services (APS)
+    sub: Student Associate
+    date: August 2019 - Present
+    content: "Modeled, adapted, and mastered a new imaging process software to
+      efficiently process out documents to our database. I created a detailed
+      Processing manual for easy training and transitioned all required
+      personnel to this new software. As a student worker, I complete all kinds
+      of assignments including prepping, editing, imaging 1000+ documents,
+      updating databases, and quality assurance. "
+  - name: Schlumberger Polymers Project
+    sub: Senior Design - Polymers Team
+    date: "Jan 2021 - Present "
+    content: "In the process of creating a model for depicting the time-dependent
+      structural response of polymers. Using ANSYS FEA and an inverse structural
+      modeling approach, we will predict the behavior of polymers of different
+      physical shapes when exposed to varying conditions. "
 skills:
   - name: Solidworks
     rank: "9"
