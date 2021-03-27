@@ -1,12 +1,11 @@
-title: Alexa Rodriguez
+title: Alexa C. Rodriguez
 photo: /img/picture.png
 about: "I am a fourth-year Mechanical Engineer from Monterrey, Mexico studying
   at the University of Texas at Austin. I am an individual with a thirst for
   knowledge, a passion for developing new ideas, and a passion for learning and
   helping others to grow. I am seeking for an internship for the summer of 2021
-  or co-op for Fall 2021 to increase my experience with my degree. My areas of
-  interest include materials, R&D, and project management.  I aim to be someone
-  known for combining to an idealist and creative mind with logic-driven
+  or co-op for Fall 2021 to increase my experience with my degree.  I aim to be
+  someone known for combining to an idealist and creative mind with logic-driven
   strategy to achieve optimal results. "
 email: alexacrdz99@utexas.edu
 address: 4416 Monday St. Edinburg, Texas 78542
@@ -16,68 +15,24 @@ facebook: https://www.facebook.com/alexa.c.rodriguez.perez/
 instagram: https://www.instagram.com/alexa_rodriguez_99/
 linkedin: https://www.linkedin.com/in/alexarodriguezperez/
 github: ""
-resume: https://www.instagram.com/alexa_rodriguez_99/
+resume: https://drive.google.com/file/d/1kQzZuIj-2-kd0oYc2W4Lg8lqK2rBKp5i/view
 education:
   - name: The University of Texas at Austin
     sub: B.S. in Mechanical Engineering
     date: December 2021
     content: "My areas of interest include materials, R&D, consulting, and project
       management. "
-work:
-  - name: USAA Software Internship
-    sub: Back-End Java Developer
-    content: Worked within Contact Routing Operations to create an enterprise level
-      Java application that collected data from specific incoming calls to USAA.
-      Worked with technologies such as Swagger API development, Kafka, Gradle,
-      GitLab CI/CD, Junit, Postman, Mockito and Jacoco.
-    date: Summer 2020
-  - name: UT-Engineers Week Web Application
-    sub: Front-End Lead
-    date: April 2019 - Present
-    content: Since the Summer of 2019, I have been a part of the Engineers Week
-      website development team at UT. E-Week is a nationwide event that
-      celebrates engineers and their contributions to the world. At UT, over
-      1000 students celebrate by participating in a week long competition. As a
-      front-end lead, I manage a team of engineers to develop an interface using
-      ReactJS/Redux to display and capture user data in an easily accessible
-      manner for over 1000 participants.
-  - name: The Society of Hispanic Professional Engineers (SHPE)
-    sub: Secretary
-    date: May 2019 - Present
-    content: "I currently hold the position of secretary for The Society of Hispanic
-      Professional Engineers UT Chapter, but I have been involved in this
-      organization since the start of my sophomore year. I previously held the
-      position of Media Director during the Spring 2019 semester. As media
-      director I oversaw a committee of members to market SHPE UT through our
-      social media platforms, website, and newsletter. Currently as Secretary, I
-      am in charge of organizing all of SHPE-UT’s file system, reporting member
-      statistics to our national board, and managing three of our chair
-      officers. "
-  - name: LAITS Student Technology Assistant
-    sub: Project Management Student Technology Assistant
-    date: August 2017 - May 2020
-    content: I worked within the UT College of Liberal Arts Instructional Technology
-      Services department to assist project managers with organizing and editing
-      recorded educational content for future publishing. Although my work does
-      not involve any of the technical aspects of software development, the
-      environment that I work in has helped teach me management skills through
-      overseeing the creation and assignments of large scale projects.
+work: []
 skills:
-  - name: Java
-    rank: "8"
-  - name: Python
-    rank: "7"
-  - name: JavaScript
-    rank: "8"
-  - name: C
-    rank: "8"
-  - name: C++
-    rank: "7"
-  - name: ReactJS
-    rank: "8"
-  - name: GatsbyJS
-    rank: "4"
-  - name: HTML
+  - name: Solidworks
     rank: "9"
-  - name: CSS
-    rank: "8"
+  - name: ANSYS
+    rank: "6"
+  - name: FEA
+    rank: "7"
+  - name: Java
+    rank: "7"
+  - name: Python
+    rank: "5"
+  - name: MATLAB
+    rank: "5"
