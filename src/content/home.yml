@@ -1,26 +1,28 @@
 title: Alexa Rodriguez
-photo: /img/stock_headshot.jpg
-about: I am a 4th year mechanical engineering major at The University of Texas
-  at Austin. My professional career as a Software Engineer will begin USAA in
-  the Summer of 2021. Please feel to reach out to get to know me.
-email: roger.terrazas@utexas.edu
-address: P.O. Box 311, Somerset, Texas 78069
-phone: 210-501-6127
+photo: /img/picture.png
+about: "I am a fourth-year Mechanical Engineer from Monterrey, Mexico studying
+  at the University of Texas at Austin. I am an individual with a thirst for
+  knowledge, a passion for developing new ideas, and a passion for learning and
+  helping others to grow. I am seeking for an internship for the summer of 2021
+  or co-op for Fall 2021 to increase my experience with my degree. My areas of
+  interest include materials, R&D, and project management.  I aim to be someone
+  known for combining to an idealist and creative mind with logic-driven
+  strategy to achieve optimal results. "
+email: alexacrdz99@utexas.edu
+address: 4416 Monday St. Edinburg, Texas 78542
+phone: 956-800-2126
 twitter: ""
-facebook: https://www.facebook.com/roger.a.terrazas
-instagram: ""
-linkedin: http://www.linkedin.com/in/rogerterrazas/
-github: https://github.com/RogerTerrazas
-resume: https://drive.google.com/file/d/1UxogQHqsgikedJ5jm-Bu2ZJGViYjPkMV/view
+facebook: https://www.facebook.com/alexa.c.rodriguez.perez/
+instagram: https://www.instagram.com/alexa_rodriguez_99/
+linkedin: https://www.linkedin.com/in/alexarodriguezperez/
+github: ""
+resume: https://www.instagram.com/alexa_rodriguez_99/
 education:
   - name: The University of Texas at Austin
-    sub: B.S. in Electrical and Computer Engineering
-    date: May 2021
-    content: "My academic and personal projects reflect my interest in software
-      development and commitment to pursuing software engineering as a primary
-      technical core. I have taken courses pertaining to the following technical
-      disciplines: Software Engineering, Operating Systems, Data Science,
-      Algorithms, Embedded Systems, and Circuit Theory"
+    sub: B.S. in Mechanical Engineering
+    date: December 2021
+    content: "My areas of interest include materials, R&D, consulting, and project
+      management. "
 work:
   - name: USAA Software Internship
     sub: Back-End Java Developer
