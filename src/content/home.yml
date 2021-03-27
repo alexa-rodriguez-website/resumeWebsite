@@ -23,6 +23,15 @@ education:
     content: "My areas of interest include materials, R&D, consulting, and project
       management. "
 work:
+  - name: "Schlumberger - Polymers "
+    sub: Senior Design - Polymers Team
+    date: "Jan 2021 - Present "
+    content: "In the process of creating a model for depicting the time-dependent
+      structural response of polymers. Using ANSYS FEA and an inverse structural
+      modeling approach, we will predict the behavior of polymers of different
+      physical shapes when exposed to varying conditions. MY current main role
+      is to perform ANSYS model and simulations, this has been a great
+      experience using an FEA software. "
   - name: Academic Personnel Services (APS)
     sub: Student Associate
     date: August 2019 - Present
@@ -32,15 +41,27 @@ work:
       personnel to this new software. As a student worker, I complete all kinds
       of assignments including prepping, editing, imaging 1000+ documents,
       updating databases, and quality assurance. "
-  - name: Schlumberger Polymers Project
-    sub: Senior Design - Polymers Team
-    date: "Jan 2021 - Present "
-    content: "In the process of creating a model for depicting the time-dependent
-      structural response of polymers. Using ANSYS FEA and an inverse structural
-      modeling approach, we will predict the behavior of polymers of different
-      physical shapes when exposed to varying conditions. MY current main role
-      is to perform ANSYS model and simulations, this has been a great
-      experience using an FEA software. "
+  - sub: "Senior Design "
+    name: '"The Mostly Gym" '
+    date: September 2020 - December 2020
+    content: Yes, like the "Total Gym". The goal was to create an exercise machine
+      with multiple functionalities and a feedback system with garage tools and
+      DIY materials to reduce our budget. I completed more than 30 hours of
+      designing, building, testing, and modifying our structure, mechanisms, and
+      overall product. Most of my contribution included researching and
+      conducting client analysis to achieve customer satisfaction on our product
+      and the designing and building of the pulley system.
+  - name: The Society of Hispanic Professional Engineers (SHPE)
+    sub: Advancing College Education (ACE) Co-Chair
+    date: Jan 2020 - December 2020
+    content: I am currently an active and passionate member of this organization.
+      Previously, I help the position of SHPE Jr Chair and then moved my way up
+      to ACE Co-Director. During these positions, I prepared and monitored SHPE
+      Jr visits for high school students from Austin ISD and districts all over
+      Texas. I also prepared, administered, and hosted successful events to
+      inspire minority high school students to pursue engineering degrees
+      inclusing UT SHPE's first ever Virtual SHPE Jr Shadow Day during Fall
+      2020, an event unable to be organized since 2017.
 skills:
   - name: Solidworks
     rank: "9"
